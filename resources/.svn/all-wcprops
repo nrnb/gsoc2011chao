@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/genmappcs/!svn/ver/1434/trunk/golayoutchao/resources
+END
+organisms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/genmappcs/!svn/ver/1373/trunk/golayoutchao/resources/organisms.txt
+END
+GO_Desc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/genmappcs/!svn/ver/1427/trunk/golayoutchao/resources/GO_Desc.txt
+END
+annotation.GO BIOLOGICAL_PROCESS
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/genmappcs/!svn/ver/1418/trunk/golayoutchao/resources/annotation.GO%20BIOLOGICAL_PROCESS
+END
+annotation.GO CELLULAR_COMPONENT
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/genmappcs/!svn/ver/1418/trunk/golayoutchao/resources/annotation.GO%20CELLULAR_COMPONENT
+END
+gene-ontology.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/genmappcs/!svn/ver/1434/trunk/golayoutchao/resources/gene-ontology.txt
+END
+annotation.GO MOLECULAR_FUNCTION
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/genmappcs/!svn/ver/1418/trunk/golayoutchao/resources/annotation.GO%20MOLECULAR_FUNCTION
+END

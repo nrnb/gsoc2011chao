@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/genmappcs/!svn/ver/1382/trunk/golayoutchao/src/org/genmapp/golayout/utils/download
+END
+PartsDownloaderThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/genmappcs/!svn/ver/1382/trunk/golayoutchao/src/org/genmapp/golayout/utils/download/PartsDownloaderThread.java
+END
+DownloaderTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/genmappcs/!svn/ver/1382/trunk/golayoutchao/src/org/genmapp/golayout/utils/download/DownloaderTask.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/genmappcs/!svn/ver/1382/trunk/golayoutchao/src/org/genmapp/golayout/utils/download/Status.java
+END
+DownloadEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/genmappcs/!svn/ver/1382/trunk/golayoutchao/src/org/genmapp/golayout/utils/download/DownloadEvent.java
+END
+DownloadListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/genmappcs/!svn/ver/1382/trunk/golayoutchao/src/org/genmapp/golayout/utils/download/DownloadListener.java
+END
+Downloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/genmappcs/!svn/ver/1382/trunk/golayoutchao/src/org/genmapp/golayout/utils/download/Downloader.java
+END

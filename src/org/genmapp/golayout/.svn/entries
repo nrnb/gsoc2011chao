@@ -1,0 +1,77 @@
+10
+
+dir
+1478
+https://svn.cgl.ucsf.edu/svn/genmappcs/trunk/golayoutchao/src/org/genmapp/golayout
+https://svn.cgl.ucsf.edu/svn/genmappcs
+
+
+
+2011-08-22T04:29:18.521359Z
+1447
+ChaoZhang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23aac120-1128-46ae-97c9-9e165d6aae65
+
+utils
+dir
+
+GOLayout.java
+file
+
+
+
+
+2011-09-10T01:48:36.291281Z
+b19acaf1149e64a8e7b0922f87b09359
+2011-08-22T04:29:18.521359Z
+1447
+ChaoZhang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9916
+
+partition
+dir
+
+layout
+dir
+
+setting
+dir
+
+color
+dir
+
